@@ -1,6 +1,7 @@
 # 🌐 Active Directory: The Ultimate Logical Components Exploration
 
 ## 🏛️ Foundational Logical Structures
+![mermaid-flow-100x](https://github.com/user-attachments/assets/052d9259-9fea-44a5-9da1-63400b289a1c)
 
 ### 1. Forest: The Entire Network Ecosystem
 
