@@ -80,7 +80,7 @@ By the end of this guide, you'll transform a bare server into a powerful network
 
 ### 💿 Software Requirements
 - Windows Server 2022 (Recommended)
-- Download Link: [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=0dc68d2446206d7e04c4981147266c4c)
+- Download Link: [To download Windows Server 2022 Evaluation click on download ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
 - Administrative Account
 - Internet Connectivity
 
@@ -189,7 +189,7 @@ Install-ADDSForest -DomainName "yourdomain.local" -SafeModeAdministratorPassword
 - Continuously educate yourself
 
 ## 📦 Downloadable Resources
-- [Windows Server 2022 Evaluation](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=0dc68d2446206d7e04c4981147266c4c)
+- [Windows Server 2022 Evaluation click on download ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
 - Sample PowerShell Scripts
 - Group Policy Templates
 
