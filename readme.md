@@ -10,7 +10,9 @@
 - 50 GB Storage
 
 ### 📥 Download Windows Server 2022
-[Download Windows Server 2022 Evaluation](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=0dc68d2446206d7e04c4981147266c4c)
+[To download Windows Server 2022 Evaluation click on download ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) <br>
+[To download Windows Server 2025 Evaluation click on download ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025)
+
 
 ### Installation Steps
 
